@@ -1,2 +1,1 @@
-# Array-Cardio
-JavaScript Array Cardio
+JavaScript Array Cardio function like: filter, map, sort, ordered, reduce, etc,.
